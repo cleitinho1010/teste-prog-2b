@@ -1,1 +1,9 @@
+body {
+    background-color: rgb(4, 205, 255);
+    text-align: justify;
+}
 
+h1 {
+    color: rgb(12, 4, 128);
+    text-align: center;
+}
